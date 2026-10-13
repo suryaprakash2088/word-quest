@@ -1,0 +1,6 @@
+{
+  "name": "Word Quest",
+  "description": "A polished Wordscapes-style word puzzle game featuring crossword grids, circular letter wheel swipe gestures, daily challenges, dictionary lookup, leaderboards, offline play, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
